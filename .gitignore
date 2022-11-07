@@ -10,5 +10,6 @@ save/
 data/
 wandb/
 test/
+ckpt/
 *.csv
 *.npy
